@@ -35,10 +35,7 @@ to run the program once packaged. From the project folder:
 - Do not pass arguments, and the program scans and executes all cases stored in "data" folder
     ```
     java -jar target/SalesTaxPredictor-1.0.jar
-    ```
 
-
-    ```
 
 ## Running the tests
 
